@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSpanDemo", "TimeSpanDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileNameDemo", "FileNameDemo\FileNameDemo.csproj", "{8430F5A7-6C64-447E-AE2E-B79FD8314285}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadImportExcel", "ReadImportExcel\ReadImportExcel.csproj", "{56260D06-F1F5-482E-B53B-042D7C9C72CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8430F5A7-6C64-447E-AE2E-B79FD8314285}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8430F5A7-6C64-447E-AE2E-B79FD8314285}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8430F5A7-6C64-447E-AE2E-B79FD8314285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56260D06-F1F5-482E-B53B-042D7C9C72CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56260D06-F1F5-482E-B53B-042D7C9C72CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56260D06-F1F5-482E-B53B-042D7C9C72CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56260D06-F1F5-482E-B53B-042D7C9C72CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
